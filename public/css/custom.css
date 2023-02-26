@@ -1,0 +1,77 @@
+/* your styles go here */
+/* Example site test */
+
+/* .box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+} */
+
+.home-carousel {
+    background: none;
+}
+.jumbotron {
+    background: none;
+}
+
+#all {
+    background: url('/img/background.jpg')/* center center*/;
+    background-size: 1920px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.navbar-default {
+    background-color:rgba(70, 127, 191, 0.15);
+    /*background: none;*/
+    /*opacity: 0.15;
+    filter: alpha(opacity=15);*/
+}
+.home-carousel .dark-mask {
+    background: none;
+}
+
+#all > section.bar.background-white {
+    margin-bottom: 0 !important;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  /*color: #ffffff;*/
+  background-color: unset;
+}
+
+.navbar ul.nav > li.open > a {
+    text-decoration: none !important;
+    border-top: unset;
+  }
+
+.navbar-affixed-top.affix {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#heading-breadcrumbs {
+    background: none;
+}
+
+#contact > div > div.col-md-8 > section > form > div > div.col-sm-12.text-center > button > i {
+    margin-right: 4px;
+}
+
+#navbar > div > div.navbar-header > a {
+    margin-top: 5px;
+}
+
+#all > section:nth-child(2) > div > div.container > div > div.owl-wrapper-outer > div > div > div > div > div.col-sm-7 > img {
+    opacity: 0;
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code In Toto</title>
+    <link>https://codeintoto.com/</link>
+    <description>Recent content on Code In Toto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://codeintoto.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://codeintoto.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeintoto.com/contact/</guid>
+      <description>We are here to help you If you&amp;rsquo;re looking for a skilled and dedicated software professional to help you achieve your business goals, we would be happy to hear from you.
+You can use the contact form below or one of the other options listed.</description>
+    </item>
+    
+  </channel>
+</rss>
